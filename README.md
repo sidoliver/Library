@@ -51,11 +51,11 @@ Users should be able to:
 
 I made this project Twice. First I build this app using object constructor and then I build it using ES6 classes.
 
--Building with object constructor is little bit messy. -There are two ways we can create object-
+- Building with object constructor is little bit messy. -There are two ways we can create object-
 1.Object Literal
 2.Object constructor
--Object constructor is handy as compared to object. Javascript is not a class dependent langauge. It is a protoype dependent language. So I learned about prototype and protype Inheritance, Which helped me to understand classes in a much better manner.
--Classes are just a blueprint or templates for javascript objects. We can structure our code in an efficient manner using classes.
+- Object constructor is handy as compared to object. Javascript is not a class dependent langauge. It is a protoype dependent language. So I learned about prototype and protype Inheritance, Which helped me to understand classes in a much better manner.
+- Classes are just a blueprint or templates for javascript objects. We can structure our code in an efficient manner using classes.
  - Through this project I also learnd about storing website data in local storage and syntax like getItem(), setItem() and localStorage.clear()
 
 Here is a sample code snippet to demonstrate the difference between an Object constructor and class-
